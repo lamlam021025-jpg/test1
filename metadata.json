@@ -1,0 +1,7 @@
+{
+  "name": "WanderPlan AI",
+  "description": "A comprehensive travel itinerary planner with multi-day management, detailed transportation tracking (Metro, HSR, Flight), budget analysis, and AI-powered suggestions.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
